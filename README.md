@@ -1,7 +1,7 @@
 # Dashboards em Excel
 Dashboards construídos.
 
-<sub>*Acadêmica de Matemática* na Universidade Federal de Mato Grosso do Sul e *Acadêmica de Ciências de Dados* na Estácio</sub>
+<sub>*Acadêmica de Matemática* na Universidade Federal de Mato Grosso do Sul e *Acadêmica de Ciência de Dados* na Estácio</sub>
 
 [![author](https://img.shields.io/badge/Autora-Roberta%20Ferreira-red)](https://www.linkedin.com/in/robertaferreira91)
 [![contributions welcome](https://img.shields.io/badge/Contribui%C3%A7%C3%B5es-Bem--Vindos-green?style=flat)](https://github.com/prfs91/dio-desafio-github-primeiro-repositorio/issues)
